@@ -21,4 +21,4 @@ Exploratory Data Analysis
 4. Plot a correlation heatmap (Correlation Heatmap) to observe relationships between salary and features like experience  
 5. Save all charts to:  
    `reports/figures/`
-## ignore ai_job_salary_2025.csv and clean_ai_salary_2025, they only include ai jobs.
+(ignore ai_job_salary_2025.csv and clean_ai_salary_2025, they only include ai jobs.)
