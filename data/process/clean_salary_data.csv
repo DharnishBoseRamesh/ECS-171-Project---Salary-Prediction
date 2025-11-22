@@ -3,25 +3,25 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 45.0,Male,PhD,Senior Manager,15.0,150000.0,USD
 36.0,Female,Bachelor,Sales Associate,7.0,60000.0,USD
 52.0,Male,Master,Director,20.0,200000.0,USD
-29.0,Male,Bachelor,Marketing Analyst,2.0,59400.0,EUR
-42.0,Female,Master,Product Manager,12.0,129600.0,EUR
-31.0,Male,Bachelor,Sales Manager,4.0,99200.0,GBP
-26.0,Female,Bachelor,Marketing Coordinator,1.0,48600.0,EUR
+29.0,Male,Bachelor,Marketing Analyst,2.0,59400.0,USD
+42.0,Female,Master,Product Manager,12.0,129600.0,USD
+31.0,Male,Bachelor,Sales Manager,4.0,99200.0,USD
+26.0,Female,Bachelor,Marketing Coordinator,1.0,48600.0,USD
 38.0,Male,PhD,Senior Scientist,10.0,110000.0,USD
 29.0,Male,Master,Software Developer,3.0,75000.0,USD
 48.0,Female,Bachelor,Hr Manager,18.0,140000.0,USD
 35.0,Male,Bachelor,Financial Analyst,6.0,65000.0,USD
-40.0,Female,Master,Project Manager,14.0,140400.0,EUR
+40.0,Female,Master,Project Manager,14.0,140400.0,USD
 27.0,Male,Bachelor,Customer Service Rep,2.0,40000.0,USD
 44.0,Male,Bachelor,Operations Manager,16.0,125000.0,USD
-33.0,Female,Master,Marketing Manager,7.0,111600.0,GBP
+33.0,Female,Master,Marketing Manager,7.0,111600.0,USD
 39.0,Male,PhD,Senior Engineer,12.0,115000.0,USD
-25.0,Female,Bachelor,Data Entry Clerk,0.0,37800.0,EUR
+25.0,Female,Bachelor,Data Entry Clerk,0.0,37800.0,USD
 51.0,Male,Bachelor,Sales Director,22.0,180000.0,USD
-34.0,Female,Master,Business Analyst,5.0,86400.0,EUR
+34.0,Female,Master,Business Analyst,5.0,86400.0,USD
 47.0,Male,Master,Vp Of Operations,19.0,190000.0,USD
 30.0,Male,Bachelor,It Support,2.0,50000.0,USD
-36.0,Female,Bachelor,Recruiter,9.0,64800.0,EUR
+36.0,Female,Bachelor,Recruiter,9.0,64800.0,USD
 41.0,Male,Master,Financial Manager,13.0,140000.0,USD
 28.0,Female,Bachelor,Social Media Specialist,3.0,45000.0,USD
 37.0,Female,Master,Software Manager,11.0,110000.0,USD
@@ -29,7 +29,7 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 43.0,Female,PhD,Senior Consultant,15.0,140000.0,USD
 33.0,Male,Master,Product Designer,6.0,90000.0,USD
 50.0,Male,Bachelor,Ceo,25.0,250000.0,USD
-31.0,Female,Bachelor,Accountant,4.0,59400.0,EUR
+31.0,Female,Bachelor,Accountant,4.0,59400.0,USD
 29.0,Male,Master,Data Scientist,3.0,75000.0,USD
 39.0,Female,Bachelor,Marketing Specialist,10.0,65000.0,USD
 46.0,Male,PhD,Senior Manager,20.0,170000.0,USD
@@ -38,18 +38,18 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 42.0,Male,Master,Project Engineer,14.0,115000.0,USD
 26.0,Female,Bachelor,Customer Success Rep,1.0,40000.0,USD
 49.0,Male,Bachelor,Sales Executive,21.0,160000.0,USD
-34.0,Female,Master,Ux Designer,5.0,86400.0,EUR
+34.0,Female,Master,Ux Designer,5.0,86400.0,USD
 48.0,Male,Master,Operations Director,18.0,190000.0,USD
 30.0,Male,Bachelor,Network Engineer,3.0,60000.0,USD
 36.0,Female,Bachelor,Administrative Assistant,8.0,45000.0,USD
 41.0,Male,Master,Strategy Consultant,13.0,130000.0,USD
-28.0,Female,Bachelor,Copywriter,2.0,43200.0,EUR
+28.0,Female,Bachelor,Copywriter,2.0,43200.0,USD
 32.0,Male,Bachelor,Account Manager,5.0,75000.0,USD
 45.0,Female,Master,Director Of Marketing,16.0,180000.0,USD
 38.0,Male,PhD,Senior Scientist,11.0,120000.0,USD
 25.0,Male,Bachelor,Help Desk Analyst,0.0,35000.0,USD
 51.0,Female,Bachelor,Customer Service Manager,22.0,130000.0,USD
-33.0,Male,Master,Business Intelligence Analyst,7.0,91800.0,EUR
+33.0,Male,Master,Business Intelligence Analyst,7.0,91800.0,USD
 40.0,Female,Bachelor,Event Coordinator,12.0,60000.0,USD
 47.0,Male,Master,Vp Of Finance,19.0,200000.0,USD
 29.0,Female,Bachelor,Graphic Designer,3.0,50000.0,USD
@@ -57,8 +57,8 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 27.0,Female,Master,Ux Researcher,2.0,65000.0,USD
 43.0,Male,PhD,Senior Engineer,17.0,140000.0,USD
 30.0,Female,Bachelor,Social Media Manager,4.0,55000.0,USD
-35.0,Male,Master,Product Manager,7.0,113400.0,EUR
-51.0,Female,Master,Director Of Operations,23.0,210800.0,GBP
+35.0,Male,Master,Product Manager,7.0,113400.0,USD
+51.0,Female,Master,Director Of Operations,23.0,210800.0,USD
 29.0,Male,Bachelor,Marketing Analyst,3.0,50000.0,USD
 40.0,Female,Bachelor,Hr Manager,12.0,80000.0,USD
 47.0,Male,PhD,Data Scientist,21.0,180000.0,USD
@@ -67,19 +67,19 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 46.0,Male,Bachelor,It Manager,19.0,120000.0,USD
 31.0,Female,Bachelor,Customer Service Representative,5.0,45000.0,USD
 34.0,Male,Master,Business Development Manager,8.0,90000.0,USD
-49.0,Female,Master,Senior Financial Analyst,18.0,162000.0,EUR
-33.0,Male,Bachelor,Web Developer,6.0,70200.0,EUR
+49.0,Female,Master,Senior Financial Analyst,18.0,162000.0,USD
+33.0,Male,Bachelor,Web Developer,6.0,70200.0,USD
 39.0,Female,Bachelor,Recruiter,11.0,70000.0,USD
-45.0,Male,PhD,Research Director,16.0,205200.0,EUR
+45.0,Male,PhD,Research Director,16.0,205200.0,USD
 28.0,Male,Bachelor,Technical Support Specialist,2.0,40000.0,USD
-42.0,Female,Master,Creative Director,14.0,148800.0,GBP
+42.0,Female,Master,Creative Director,14.0,148800.0,USD
 37.0,Male,Bachelor,Project Manager,10.0,95000.0,USD
 50.0,Female,Bachelor,Operations Manager,22.0,160000.0,USD
 32.0,Male,Master,Senior Software Engineer,6.0,100000.0,USD
 48.0,Female,Master,Human Resources Director,20.0,180000.0,USD
 30.0,Female,Bachelor,Content Marketing Manager,3.0,55000.0,USD
 36.0,Male,Bachelor,Technical Recruiter,8.0,70000.0,USD
-41.0,Female,Master,Data Analyst,13.0,86400.0,EUR
+41.0,Female,Master,Data Analyst,13.0,86400.0,USD
 25.0,Male,Bachelor,Sales Representative,0.0,30000.0,USD
 52.0,Male,PhD,Chief Technology Officer,24.0,250000.0,USD
 29.0,Female,Bachelor,Junior Designer,2.0,40000.0,USD
@@ -87,33 +87,33 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 27.0,Male,Bachelor,Junior Account Manager,2.0,45000.0,USD
 40.0,Female,Bachelor,Hr Generalist,15.0,80000.0,USD
 46.0,Male,Master,Senior Project Manager,21.0,135000.0,USD
-31.0,Female,Bachelor,Marketing Coordinator,6.0,59400.0,EUR
-36.0,Male,PhD,Principal Scientist,11.0,129600.0,EUR
+31.0,Female,Bachelor,Marketing Coordinator,6.0,59400.0,USD
+36.0,Male,PhD,Principal Scientist,11.0,129600.0,USD
 29.0,Female,Bachelor,Sales Associate,3.0,40000.0,USD
-43.0,Male,Bachelor,Supply Chain Manager,18.0,113400.0,EUR
+43.0,Male,Bachelor,Supply Chain Manager,18.0,113400.0,USD
 52.0,Female,Master,Senior Marketing Manager,25.0,170000.0,USD
 33.0,Male,Bachelor,Business Analyst,7.0,75000.0,USD
 39.0,Female,Bachelor,Training Specialist,12.0,65000.0,USD
 47.0,Male,PhD,Research Scientist,22.0,160000.0,USD
-26.0,Male,Bachelor,Junior Software Developer,1.0,37800.0,EUR
+26.0,Male,Bachelor,Junior Software Developer,1.0,37800.0,USD
 38.0,Female,Master,Public Relations Manager,10.0,90000.0,USD
 45.0,Male,Bachelor,Operations Analyst,20.0,110000.0,USD
 31.0,Female,Bachelor,Event Coordinator,5.0,45000.0,USD
 35.0,Male,Master,Product Marketing Manager,8.0,95000.0,USD
 49.0,Female,Master,Senior Hr Manager,19.0,150000.0,USD
-33.0,Male,Bachelor,Junior Web Developer,5.0,54000.0,EUR
+33.0,Male,Bachelor,Junior Web Developer,5.0,54000.0,USD
 39.0,Female,Master,Senior Project Coordinator,13.0,80000.0,USD
-44.0,Male,PhD,Chief Data Officer,16.0,272800.0,GBP
+44.0,Male,PhD,Chief Data Officer,16.0,272800.0,USD
 30.0,Female,Bachelor,Digital Content Producer,3.0,50000.0,USD
 36.0,Male,Bachelor,It Support Specialist,7.0,60000.0,USD
 41.0,Female,Master,Senior Marketing Analyst,14.0,100000.0,USD
-28.0,Male,Bachelor,Customer Success Manager,2.0,43200.0,EUR
+28.0,Male,Bachelor,Customer Success Manager,2.0,43200.0,USD
 42.0,Female,Master,Senior Graphic Designer,15.0,110000.0,USD
 37.0,Male,Bachelor,Software Project Manager,9.0,95000.0,USD
-50.0,Female,Bachelor,Supply Chain Analyst,22.0,140400.0,EUR
-32.0,Male,Master,Senior Business Analyst,6.0,97200.0,EUR
-23.0,Female,Bachelor,Junior Marketing Analyst,0.5,37800.0,EUR
-31.0,Male,Master,Senior Financial Analyst,6.0,102600.0,EUR
+50.0,Female,Bachelor,Supply Chain Analyst,22.0,140400.0,USD
+32.0,Male,Master,Senior Business Analyst,6.0,97200.0,USD
+23.0,Female,Bachelor,Junior Marketing Analyst,0.5,37800.0,USD
+31.0,Male,Master,Senior Financial Analyst,6.0,102600.0,USD
 40.0,Female,Bachelor,Office Manager,15.0,65000.0,USD
 48.0,Male,PhD,Principal Engineer,20.0,170000.0,USD
 29.0,Female,Bachelor,Junior Hr Generalist,3.0,45000.0,USD
@@ -129,15 +129,15 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 32.0,Female,Bachelor,Marketing Coordinator,4.0,50000.0,USD
 34.0,Male,Master,Senior Software Developer,8.0,105000.0,USD
 50.0,Female,Master,Director Of Operations,21.0,160000.0,USD
-29.0,Male,Bachelor,Junior Web Designer,3.0,48600.0,EUR
+29.0,Male,Bachelor,Junior Web Designer,3.0,48600.0,USD
 40.0,Female,Master,Senior Training Specialist,12.0,100000.0,USD
 47.0,Male,PhD,Senior Research Scientist,22.0,160000.0,USD
-27.0,Male,Bachelor,Junior Sales Representative,1.0,37800.0,EUR
-39.0,Female,Bachelor,Administrative Assistant,10.0,68200.0,GBP
+27.0,Male,Bachelor,Junior Sales Representative,1.0,37800.0,USD
+39.0,Female,Bachelor,Administrative Assistant,10.0,68200.0,USD
 46.0,Male,Master,Senior Project Manager,19.0,140000.0,USD
 30.0,Female,Bachelor,Junior Marketing Manager,4.0,50000.0,USD
 36.0,Male,Bachelor,Junior Data Analyst,7.0,60000.0,USD
-43.0,Female,Master,Senior Product Marketing Manager,14.0,129600.0,EUR
+43.0,Female,Master,Senior Product Marketing Manager,14.0,129600.0,USD
 28.0,Male,Bachelor,Junior Business Analyst,2.0,40000.0,USD
 41.0,Female,Master,Senior Marketing Manager,13.0,110000.0,USD
 33.0,Male,Bachelor,Junior Software Developer,5.0,50000.0,USD
@@ -146,41 +146,41 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 34.0,Male,Bachelor,Senior Business Analyst,8.0,90000.0,USD
 42.0,Female,PhD,Data Scientist,16.0,150000.0,USD
 31.0,Male,Bachelor,Junior Project Manager,4.0,60000.0,USD
-38.0,Female,Bachelor,Senior Accountant,10.0,86400.0,EUR
+38.0,Female,Bachelor,Senior Accountant,10.0,86400.0,USD
 45.0,Male,Master,Director Of Sales,19.0,175000.0,USD
 29.0,Female,Bachelor,Junior Recruiter,3.0,45000.0,USD
 36.0,Male,Master,Senior Business Development Manager,11.0,120000.0,USD
 43.0,Female,PhD,Senior Product Designer,18.0,140000.0,USD
 26.0,Male,Bachelor,Junior Customer Support Specialist,2.0,35000.0,USD
-37.0,Female,Master,Senior Marketing Analyst,9.0,102600.0,EUR
+37.0,Female,Master,Senior Marketing Analyst,9.0,102600.0,USD
 44.0,Male,Bachelor,Senior It Support Specialist,14.0,110000.0,USD
 32.0,Female,Bachelor,Junior Financial Analyst,5.0,50000.0,USD
 33.0,Male,Master,Senior Operations Manager,7.0,115000.0,USD
 51.0,Female,PhD,Director Of Human Resources,23.0,185000.0,USD
 28.0,Male,Bachelor,Junior Software Engineer,2.0,40000.0,USD
-39.0,Female,Bachelor,Senior Sales Representative,12.0,97200.0,EUR
+39.0,Female,Bachelor,Senior Sales Representative,12.0,97200.0,USD
 48.0,Male,Master,Director Of Product Management,21.0,175000.0,USD
 30.0,Female,Bachelor,Junior Copywriter,3.0,45000.0,USD
 35.0,Male,Bachelor,Senior Marketing Coordinator,7.0,80000.0,USD
-41.0,Female,Master,Senior Human Resources Manager,13.0,129600.0,EUR
+41.0,Female,Master,Senior Human Resources Manager,13.0,129600.0,USD
 27.0,Male,Bachelor,Junior Business Development Associate,1.5,35000.0,USD
 40.0,Female,Bachelor,Senior Account Manager,14.0,110000.0,USD
 46.0,Male,PhD,Senior Researcher,18.0,150000.0,USD
 31.0,Female,Bachelor,Junior Hr Coordinator,4.0,50000.0,USD
-34.0,Male,Master,Senior Software Engineer,9.0,113400.0,EUR
+34.0,Male,Master,Senior Software Engineer,9.0,113400.0,USD
 50.0,Female,Master,Director Of Finance,20.0,180000.0,USD
 29.0,Male,Bachelor,Junior Marketing Coordinator,2.0,40000.0,USD
 37.0,Unknown,Unknown,Unknown,9.0,95000.0,USD
-43.0,Male,Bachelor,Senior Project Manager,16.0,173600.0,GBP
+43.0,Male,Bachelor,Senior Project Manager,16.0,173600.0,USD
 26.0,Female,Master,Junior Data Scientist,1.5,45000.0,USD
-35.0,Male,Bachelor,Senior Operations Analyst,7.0,91800.0,EUR
-42.0,Female,PhD,Senior Marketing Manager,18.0,151200.0,EUR
+35.0,Male,Bachelor,Senior Operations Analyst,7.0,91800.0,USD
+42.0,Female,PhD,Senior Marketing Manager,18.0,151200.0,USD
 31.0,Male,Bachelor,Junior Accountant,4.0,50000.0,USD
 38.0,Female,Bachelor,Senior Human Resources Coordinator,10.0,80000.0,USD
 46.0,Male,Master,Director Of Operations,20.0,170000.0,USD
 29.0,Female,Bachelor,Junior Sales Representative,2.0,40000.0,USD
 37.0,Male,Master,Senior Business Analyst,9.0,105000.0,USD
-44.0,Female,PhD,Senior Ux Designer,15.0,156600.0,EUR
+44.0,Female,PhD,Senior Ux Designer,15.0,156600.0,USD
 27.0,Male,Bachelor,Junior Product Manager,2.0,40000.0,USD
 36.0,Female,Bachelor,Senior Marketing Specialist,8.0,85000.0,USD
 43.0,Male,Bachelor,Senior It Project Manager,14.0,130000.0,USD
@@ -193,23 +193,23 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 30.0,Female,Bachelor,Junior Social Media Manager,3.0,45000.0,USD
 34.0,Male,Bachelor,Senior Product Manager,7.0,95000.0,USD
 40.0,Female,Master,Senior Human Resources Specialist,13.0,120000.0,USD
-28.0,Male,Bachelor,Junior Business Analyst,2.0,43200.0,EUR
-41.0,Female,Bachelor,Senior Marketing Coordinator,11.0,97200.0,EUR
+28.0,Male,Bachelor,Junior Business Analyst,2.0,43200.0,USD
+41.0,Female,Bachelor,Senior Marketing Coordinator,11.0,97200.0,USD
 45.0,Male,PhD,Senior Data Analyst,17.0,155000.0,USD
 32.0,Female,Bachelor,Junior Account Manager,5.0,55000.0,USD
 35.0,Male,Master,Senior Software Developer,9.0,110000.0,USD
 49.0,Female,Master,Director Of Human Capital,21.0,180000.0,USD
-30.0,Male,Bachelor,Junior Advertising Coordinator,3.0,48600.0,EUR
+30.0,Male,Bachelor,Junior Advertising Coordinator,3.0,48600.0,USD
 44.0,Male,Bachelor,Senior Sales Manager,16.0,130000.0,USD
-27.0,Female,Master,Junior Ux Designer,1.5,55800.0,GBP
+27.0,Female,Master,Junior Ux Designer,1.5,55800.0,USD
 36.0,Male,Bachelor,Senior Accountant,7.0,90000.0,USD
 41.0,Female,PhD,Senior Marketing Director,17.0,160000.0,USD
-31.0,Male,Bachelor,Junior Hr Generalist,4.0,62000.0,GBP
-39.0,Female,Bachelor,Senior Operations Manager,10.0,148800.0,GBP
+31.0,Male,Bachelor,Junior Hr Generalist,4.0,62000.0,USD
+39.0,Female,Bachelor,Senior Operations Manager,10.0,148800.0,USD
 47.0,Male,Master,Director Of Finance,20.0,170000.0,USD
 30.0,Female,Bachelor,Junior Marketing Coordinator,2.0,40000.0,USD
-38.0,Male,Master,Senior It Consultant,9.0,118800.0,EUR
-45.0,Female,PhD,Senior Product Designer,15.0,186000.0,GBP
+38.0,Male,Master,Senior It Consultant,9.0,118800.0,USD
+45.0,Female,PhD,Senior Product Designer,15.0,186000.0,USD
 28.0,Male,Bachelor,Junior Business Development Associate,2.0,40000.0,USD
 35.0,Female,Bachelor,Senior Marketing Analyst,8.0,85000.0,USD
 44.0,Male,Bachelor,Senior Software Engineer,14.0,130000.0,USD
@@ -218,18 +218,18 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 50.0,Female,PhD,Director Of Operations,22.0,180000.0,USD
 29.0,Male,Bachelor,Junior Business Operations Analyst,1.5,35000.0,USD
 40.0,Female,Bachelor,Senior Sales Representative,12.0,100000.0,USD
-48.0,Male,Master,Director Of Marketing,19.0,183600.0,EUR
+48.0,Male,Master,Director Of Marketing,19.0,183600.0,USD
 31.0,Female,Bachelor,Junior Social Media Specialist,3.0,45000.0,USD
-33.0,Male,Bachelor,Senior Product Development Manager,7.0,108000.0,EUR
-42.0,Female,Master,Senior Human Resources Manager,13.0,173600.0,GBP
+33.0,Male,Bachelor,Senior Product Development Manager,7.0,108000.0,USD
+42.0,Female,Master,Senior Human Resources Manager,13.0,173600.0,USD
 28.0,Male,Bachelor,Junior Financial Analyst,2.0,40000.0,USD
-40.0,Female,Bachelor,Senior Marketing Manager,11.0,113400.0,EUR
+40.0,Female,Bachelor,Senior Marketing Manager,11.0,113400.0,USD
 46.0,Male,PhD,Data Scientist,18.0,160000.0,USD
 33.0,Female,Bachelor,Junior Operations Manager,5.0,70000.0,USD
-37.0,Male,Master,Senior Software Architect,9.0,148800.0,GBP
+37.0,Male,Master,Senior Software Architect,9.0,148800.0,USD
 51.0,Female,Master,Director Of Human Resources,21.0,190000.0,USD
 30.0,Male,Bachelor,Junior Marketing Specialist,3.0,45000.0,USD
-43.0,Male,Bachelor,Senior Project Manager,15.0,129600.0,EUR
+43.0,Male,Bachelor,Senior Project Manager,15.0,129600.0,USD
 27.0,Female,Master,Junior Research Scientist,1.5,50000.0,USD
 35.0,Male,Bachelor,Senior Operations Analyst,8.0,85000.0,USD
 42.0,Female,PhD,Senior Marketing Manager,13.0,140000.0,USD
@@ -237,8 +237,8 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 37.0,Female,Bachelor,Senior Financial Analyst,9.0,100000.0,USD
 45.0,Male,Master,Senior Software Developer,16.0,140000.0,USD
 33.0,Female,Bachelor,Junior Operations Analyst,5.0,70000.0,USD
-39.0,Male,Bachelor,Senior Marketing Specialist,10.0,129600.0,EUR
-44.0,Female,PhD,Senior Hr Manager,18.0,172800.0,EUR
+39.0,Male,Bachelor,Senior Marketing Specialist,10.0,129600.0,USD
+44.0,Female,PhD,Senior Hr Manager,18.0,172800.0,USD
 29.0,Male,Bachelor,Junior Business Analyst,1.5,40000.0,USD
 38.0,Female,Bachelor,Senior Product Manager,10.0,120000.0,USD
 46.0,Male,PhD,Senior Data Analyst,19.0,150000.0,USD
@@ -247,43 +247,43 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 49.0,Female,Master,Director Of Marketing,21.0,180000.0,USD
 31.0,Male,Bachelor,Junior Financial Analyst,3.0,50000.0,USD
 41.0,Female,Bachelor,Senior Project Coordinator,11.0,95000.0,USD
-47.0,Male,Master,Director Of Operations,20.0,183600.0,EUR
+47.0,Male,Master,Director Of Operations,20.0,183600.0,USD
 38.0,Male,Master,Senior It Consultant,9.0,110000.0,USD
 45.0,Female,PhD,Senior Product Designer,15.0,150000.0,USD
-34.0,Female,Master,Senior Financial Advisor,6.0,108000.0,EUR
-35.0,Male,Bachelor,Senior Project Coordinator,9.0,102600.0,EUR
-29.0,Male,Bachelor,Junior Business Operations Analyst,1.5,378.0,EUR
+34.0,Female,Master,Senior Financial Advisor,6.0,108000.0,USD
+35.0,Male,Bachelor,Senior Project Coordinator,9.0,102600.0,USD
+29.0,Male,Bachelor,Junior Business Operations Analyst,1.5,378.0,USD
 37.0,Female,Bachelor,Senior Financial Manager,10.0,120000.0,USD
-31.0,Female,Bachelor,Junior Marketing Coordinator,3.0,62000.0,GBP
+31.0,Female,Bachelor,Junior Marketing Coordinator,3.0,62000.0,USD
 42.0,Male,Bachelor,Senior Operations Manager,12.0,110000.0,USD
 29.0,Female,Bachelor,Junior Sales Representative,1.5,40000.0,USD
 36.0,Male,Bachelor,Senior Marketing Specialist,8.0,95000.0,USD
-44.0,Female,Master,Senior Hr Specialist,15.0,173600.0,GBP
+44.0,Female,Master,Senior Hr Specialist,15.0,173600.0,USD
 33.0,Male,Bachelor,Junior Operations Manager,4.0,60000.0,USD
-39.0,Female,Bachelor,Senior Marketing Coordinator,9.0,136400.0,GBP
+39.0,Female,Bachelor,Senior Marketing Coordinator,9.0,136400.0,USD
 45.0,Male,PhD,Senior Data Engineer,16.0,150000.0,USD
 32.0,Female,Bachelor,Junior Marketing Manager,4.0,60000.0,USD
 37.0,Male,Bachelor,Senior Financial Analyst,8.0,90000.0,USD
 47.0,Female,Master,Director Of Marketing,20.0,180000.0,USD
 30.0,Male,Bachelor,Junior Business Analyst,2.0,40000.0,USD
-38.0,Female,Bachelor,Senior Project Manager,9.0,148800.0,GBP
+38.0,Female,Bachelor,Senior Project Manager,9.0,148800.0,USD
 46.0,Male,PhD,Senior Data Analyst,17.0,160000.0,USD
-34.0,Female,Bachelor,Junior Financial Analyst,5.0,86800.0,GBP
+34.0,Female,Bachelor,Junior Financial Analyst,5.0,86800.0,USD
 36.0,Male,Bachelor,Senior Product Manager,8.0,95000.0,USD
 49.0,Female,Master,Director Of Operations,21.0,180000.0,USD
-31.0,Male,Bachelor,Junior Operations Analyst,3.0,62000.0,GBP
+31.0,Male,Bachelor,Junior Operations Analyst,3.0,62000.0,USD
 47.0,Male,Master,Director Of Marketing,19.0,170000.0,USD
-29.0,Female,Bachelor,Junior Business Development Associate,1.5,37800.0,EUR
+29.0,Female,Bachelor,Junior Business Development Associate,1.5,37800.0,USD
 35.0,Male,Bachelor,Senior Financial Manager,9.0,100000.0,USD
-44.0,Female,PhD,Senior Product Designer,15.0,162000.0,EUR
+44.0,Female,PhD,Senior Product Designer,15.0,162000.0,USD
 33.0,Male,Bachelor,Junior Business Analyst,4.0,60000.0,USD
 44.0,Male,Bachelor,Senior Software Engineer,13.0,130000.0,USD
 32.0,Male,Bachelor,Junior Product Manager,4.0,65000.0,USD
-38.0,Female,Bachelor,Senior Business Analyst,10.0,118800.0,EUR
+38.0,Female,Bachelor,Senior Business Analyst,10.0,118800.0,USD
 49.0,Male,PhD,Director Of Operations,21.0,180000.0,USD
 29.0,Female,Bachelor,Junior Marketing Specialist,2.0,40000.0,USD
 35.0,Male,Bachelor,Senior Business Development Manager,7.0,90000.0,USD
-45.0,Female,Master,Senior Hr Manager,14.0,151200.0,EUR
+45.0,Female,Master,Senior Hr Manager,14.0,151200.0,USD
 33.0,Male,Bachelor,Junior Financial Analyst,4.0,60000.0,USD
 40.0,Female,Bachelor,Senior Marketing Manager,12.0,130000.0,USD
 44.0,Male,PhD,Data Scientist,16.0,160000.0,USD
@@ -296,16 +296,16 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 36.0,Male,Bachelor,Senior Business Analyst,8.0,95000.0,USD
 31.0,Male,Bachelor,Junior Operations Analyst,3.0,50000.0,USD
 42.0,Female,Bachelor,Senior Project Manager,12.0,120000.0,USD
-47.0,Male,Master,Director Of Marketing,19.0,183600.0,EUR
+47.0,Male,Master,Director Of Marketing,19.0,183600.0,USD
 29.0,Female,Bachelor,Junior Business Development Associate,1.5,35000.0,USD
 44.0,Female,PhD,Senior Product Designer,15.0,150000.0,USD
 34.0,Female,Master,Senior Financial Advisor,6.0,80000.0,USD
 30.0,Female,Bachelor,Junior Hr Coordinator,2.0,40000.0,USD
 37.0,Male,Bachelor,Senior Business Development Manager,10.0,120000.0,USD
-45.0,Female,Master,Senior Marketing Manager,16.0,172800.0,EUR
+45.0,Female,Master,Senior Marketing Manager,16.0,172800.0,USD
 32.0,Male,Bachelor,Junior Financial Advisor,4.0,65000.0,USD
 39.0,Female,Bachelor,Senior Project Manager,12.0,130000.0,USD
-47.0,Male,PhD,Director Of Engineering,20.0,194400.0,EUR
+47.0,Male,PhD,Director Of Engineering,20.0,194400.0,USD
 29.0,Female,Bachelor,Junior Marketing Analyst,2.0,40000.0,USD
 36.0,Male,Bachelor,Senior Operations Manager,9.0,100000.0,USD
 43.0,Female,PhD,Data Scientist,15.0,150000.0,USD
@@ -313,13 +313,13 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 38.0,Female,Bachelor,Senior Business Analyst,10.0,110000.0,USD
 48.0,Male,Master,Director Of Marketing,21.0,180000.0,USD
 31.0,Female,Bachelor,Junior Business Development Associate,3.0,50000.0,USD
-40.0,Male,Bachelor,Senior Financial Analyst,12.0,161200.0,GBP
+40.0,Male,Bachelor,Senior Financial Analyst,12.0,161200.0,USD
 45.0,Female,PhD,Senior Ux Designer,16.0,160000.0,USD
 33.0,Male,Bachelor,Junior Product Manager,4.0,60000.0,USD
 36.0,Female,Bachelor,Senior Marketing Manager,8.0,95000.0,USD
-47.0,Male,Master,Director Of Operations,19.0,183600.0,EUR
+47.0,Male,Master,Director Of Operations,19.0,183600.0,USD
 29.0,Female,Bachelor,Junior Project Manager,2.0,40000.0,USD
-34.0,Male,Bachelor,Senior Operations Coordinator,7.0,97200.0,EUR
+34.0,Male,Bachelor,Senior Operations Coordinator,7.0,97200.0,USD
 44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,USD
 33.0,Male,Bachelor,Junior Marketing Specialist,5.0,70000.0,USD
 35.0,Female,Bachelor,Senior Financial Manager,8.0,90000.0,USD
@@ -329,14 +329,14 @@ age,gender,education_level,job_title,years_of_experience,salary,currency
 44.0,Female,PhD,Senior Data Engineer,16.0,160000.0,USD
 45.0,Male,Master,Director Of Engineering,19.0,180000.0,USD
 28.0,Female,Bachelor,Junior Operations Manager,1.0,35000.0,USD
-36.0,Male,Bachelor,Senior Business Development Manager,8.0,118800.0,EUR
+36.0,Male,Bachelor,Senior Business Development Manager,8.0,118800.0,USD
 44.0,Female,PhD,Data Scientist,16.0,160000.0,USD
 31.0,Male,Bachelor,Junior Marketing Coordinator,3.0,55000.0,USD
-48.0,Male,Master,Director Of Marketing,21.0,194400.0,EUR
+48.0,Male,Master,Director Of Marketing,21.0,194400.0,USD
 40.0,Male,Bachelor,Senior Financial Analyst,12.0,130000.0,USD
 47.0,Male,Master,Director Of Operations,19.0,170000.0,USD
 34.0,Male,Bachelor,Senior Operations Coordinator,7.0,90000.0,USD
-44.0,Female,PhD,Senior Business Analyst,15.0,162000.0,EUR
-33.0,Male,Bachelor,Junior Marketing Specialist,5.0,75600.0,EUR
-43.0,Male,Master,Director Of Marketing,18.0,210800.0,GBP
+44.0,Female,PhD,Senior Business Analyst,15.0,162000.0,USD
+33.0,Male,Bachelor,Junior Marketing Specialist,5.0,75600.0,USD
+43.0,Male,Master,Director Of Marketing,18.0,210800.0,USD
 43.0,Male,Master,Director Of Operations,19.0,170000.0,USD
