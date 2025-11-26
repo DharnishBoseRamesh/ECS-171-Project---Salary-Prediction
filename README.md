@@ -8,7 +8,7 @@ Our project is about building a machine learning model to predict salaries based
 * Required Packages: NumPy, Pandas, Matplotlib, SciPy, scikit-learn, notebook
 
 ```bash
-pip install numpy pandas matplotlib scipy scikit-learn notebook
+pip3 install numpy pandas matplotlib scipy scikit-learn notebook
 python3 -m notebook
 ```
 Project Files
